@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UO294847
+- 👋 Hi, I’m CNASO
 - 👀 I’m interested in web/app development, low level aplications...  
 - 🌱 I’m currently learning and mastering the basics of programming, leading group projects in college... Taking my time, dont wanna rush it. Programming does not only mean coding.
 - 💞️ I’m looking to collaborate on some projects that coud boost my potential, and learn with other people willing to get a place in this tech environment we are living in.
